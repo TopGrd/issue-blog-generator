@@ -1,5 +1,5 @@
 ---
-title: "Ananke: a Hugo Theme"
+title: "Who am i ?"
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: "The last theme you'll ever need. Maybe."
 ---
